@@ -1,2 +1,2 @@
-# Javascript Projects 
+# Calculator App 
 Author : Sumit Sutar
